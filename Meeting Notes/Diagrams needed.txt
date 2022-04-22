@@ -1,0 +1,13 @@
+sequence diagram for what a user may be doing within the program (1 scenario)
+	Loggin in, interacting, etc.
+Class diagram for the database (entity relationship diagram may be needed with 
+	multiple class diagrams)
+Tabular designs (tables) when talking about design and descriptions (not every adv
+	and disadv though)
+
+Standard use case (Start here) (processes to plan an outfit for the day)
+Infrastructure diagram
+
+What other diagrams may be necessary?
+
+Defining data types and showing processes

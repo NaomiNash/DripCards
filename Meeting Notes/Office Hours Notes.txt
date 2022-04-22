@@ -1,0 +1,15 @@
+Unstructured database for clothing pictures - Azure Cosmos DB
+	Structure for accessing the database
+Database, website, backup for Architecture diagrams, balances for application traffic
+Secure structured relational database for member logins
+Subscription for extra features (see other peoples feeds and clothing)
+	Requires payment system, billing, API for 3rd party
+Google lens is now a requirement for showing users where to get certain items they want
+Break down requirements with smaller things into one epic
+Login needs steps to know and database with storagetypes 
+Need scalability so that with low users, servers and network usage can be dropped, or those can be raised with higher
+	traffic, for coachella and such like that
+Use database azure for project website
+User others login processes like the food ordering login system
+Diagram scenario like logging in, or using a part of the application, include things that have to do with those functionalities
+	Look into other diagrams needed for project (not given, just gotta "know" what we need to add based on our project)

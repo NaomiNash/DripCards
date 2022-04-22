@@ -1,0 +1,15 @@
+!st project was making a web app. with a vm in SAIL
+
+Using unstructured database with uploaded photos, Azure shows unstructured databases
+
+Needs vms and database 
+
+Infrastructure diagram uses front end and back end
+
+html myphp database
+
+Need database indentafied for all unstructured data
+
+Make github to upload code
+get vscode
+Office hours with Adams? MWF starting at 10

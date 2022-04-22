@@ -1,0 +1,7 @@
+Meeting Notes for Drip Cards:
+3/3 - Discussed User Stories and Requirements for project
+3/17 - Built upon curret User Stories
+3/24 - Used Planning Poker to rank all current tasks (User Stories and Requirements)
+3/29 - Discussed what example project to use as the base for Drip Cards
+
+

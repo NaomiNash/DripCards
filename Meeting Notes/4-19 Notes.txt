@@ -1,0 +1,9 @@
+Make more diagrams (only 2 is not due diligence) - Review Deisgn Architecture and Modelling powerpoint
+
+Testing - discussion on steps for manual and automatic testing (you manual test, but discuss automatic testing)
+	Diagramming can help show this
+
+Writing assignment 6 - Testing (how to test your code)
+Writing Assignment 7 - Respond to comments from Writ. Assing. 3 (report)
+Writing Assignment 8 - Respond to comments from diagram
+Writing Assignment 9 - Put all work into GitHub
