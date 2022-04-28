@@ -23,4 +23,5 @@ Contact Us page ^
 About page ^
 
 
-The license we will be using is the MIT license. It is an open-source software that allows us to modify or sell without any restrictions
+The license we will be using is the MIT license. 
+It is an open-source software that allows us to modify or sell without any restrictions.
