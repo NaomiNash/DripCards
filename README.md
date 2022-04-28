@@ -16,8 +16,7 @@ Drip Deck view and Outfit Card creation page ^
 ![image](https://user-images.githubusercontent.com/97969876/165831892-c287e811-f95d-4a56-af6b-20ddd7a1fdc0.png)
 Outfit card view and deletion page ^
 
-![image](https://user-images.githubusercontent.com/97969876/165832025-47bbee8a-1bef-41fc-8280-147bc5747448.png)
-
+![image](https://user-images.githubusercontent.com/97969876/165832917-1d1795c8-9242-4a90-95f0-4a978e8b5768.png)
 Contact Us page ^
 
 ![image](https://user-images.githubusercontent.com/97969876/165832789-069456a5-4a6b-4602-b56a-e22e32bcd1ee.png)
