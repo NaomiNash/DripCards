@@ -19,7 +19,7 @@ Outfit card view and deletion page ^
 ![image](https://user-images.githubusercontent.com/97969876/165832917-1d1795c8-9242-4a90-95f0-4a978e8b5768.png)
 Contact Us page ^
 
-![image](https://user-images.githubusercontent.com/97969876/165832789-069456a5-4a6b-4602-b56a-e22e32bcd1ee.png)
+![image](https://user-images.githubusercontent.com/97969876/165845533-980dbe62-0257-4799-a6eb-30d4f6de9aea.png)
 About page ^
 
 
