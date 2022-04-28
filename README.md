@@ -21,3 +21,6 @@ Contact Us page ^
 
 ![image](https://user-images.githubusercontent.com/97969876/165832789-069456a5-4a6b-4602-b56a-e22e32bcd1ee.png)
 About page ^
+
+
+The license we will be using is the MIT license. It is an open-source software that allows us to modify or sell without any restrictions
