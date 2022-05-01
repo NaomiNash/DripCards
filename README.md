@@ -8,7 +8,7 @@ It will be a website application that allows users to upload photos of the cloth
 Home page for the DripCards web application ^
 
 ![image](https://user-images.githubusercontent.com/97969876/165830733-9f44d6c8-c1fc-4005-adbc-ee938f084886.png)
-DripCard upload page ^
+Drip Card upload page ^
 
 ![image](https://user-images.githubusercontent.com/97969876/165831624-d4f079c1-28f8-445a-971b-6fe1ca8a7b4d.png)
 Drip Deck view and Outfit Card creation page ^
