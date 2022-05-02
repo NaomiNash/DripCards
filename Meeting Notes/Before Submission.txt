@@ -1,6 +1,7 @@
 Before Submission:
-Add screenshots of website to presentation
-Make presentation more rofessional
-Read through report and edit any grammatical errors
-Make sure README file is complete
-Make sure all edits are uploaded to GitHub
+CHANGE TITLE FONT IN LOGIN TO MATCH OTHERS [done]
+Add screenshots of website to presentation [done]
+Make presentation more professional [done]
+Read through report and edit any grammatical errors [done]
+Make sure README file is complete [done]
+Make sure all edits are uploaded to GitHub [done]
