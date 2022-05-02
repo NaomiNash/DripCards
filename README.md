@@ -28,3 +28,5 @@ About page ^
 
 The license we will be using is the MIT license. 
 It is an open-source software that allows us to modify or sell without any restrictions.
+
+*Note: Images must be saved in same folder as HTML files for images to be viewed on web app pages
