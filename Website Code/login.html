@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html> 
+  <head>
+  <title>DripCards Login</title>
+  <style> 
+
+  Body {
+       font-family: Calibri, Helvetica, sans-serif;
+       background-color: mistyrose;
+       }
+
+  button { 
+         background-color: #709999; 
+         width: 50%;
+         color: goldenrod; 
+         padding: 15px; 
+         margin: 10px 0px; 
+         border: none;
+         } 
+
+   form { 
+        border: 3px solid rosedust;
+        width: 50%; 
+        text-align:center;
+        } 
+
+   input[type=text], input[type=password] 
+          { 
+          width: 50%; 
+          margin: 8px 0;
+          padding: 12px 20px; 
+          display: inline-block; 
+          border: 2px solid rosedust; 
+          box-sizing: rosedust; 
+          }
+
+   button:hover 
+          { 
+          opacity: 0.5; 
+          } 
+      
+  .container 
+          { 
+          padding: 25px; 
+          background-color: #997070;
+          } 
+
+  </style> 
+  </head>  
+    <body>  
+      <h1 style="font-family:courier;color: goldenrod;"> DRIPCARDS LOGIN </h1> 
+      <form>
+          <div class="container"> 
+            <label>Dripster Username : 
+            </label> 
+            <input type="text" placeholder="Enter your super cool username here!" name="username" required>
+            </br>
+	    <label>Dripster Password : 
+            </label> 
+            <input type="password" placeholder="Enter your super secret password here!" name="password" required>
+            <a href="DripCards-HomePage.html">
+		<button type="submit">LOGIN
+                </button> 
+	    </a>
+            </br>
+	    <input type="checkbox"> Remember me please!
+	    </br>
+            Forgot your super secret <a href="placeholder" style="color: goldenrod">password?</a> 
+        </div> 
+     </form>   
+   </body>   
+</html>
