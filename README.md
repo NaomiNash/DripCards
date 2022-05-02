@@ -4,7 +4,7 @@ It will be a website application that allows users to upload photos of the cloth
   discover what clothes they do not wear as often anymore, and find clothes and styles that others wear that they want to
   replicate.
   
-![image](https://user-images.githubusercontent.com/97969876/166182990-530e61cd-fd76-4660-9c90-c81d35f7f277.png)
+![image](https://user-images.githubusercontent.com/97969876/166315271-0febc086-cc96-4fb5-8657-fde40cb98567.png)
 Home page for the DripCards web application ^
 
 ![image](https://user-images.githubusercontent.com/97969876/166183050-9863f384-ce3f-45bf-960e-5d0d691cc184.png)
@@ -16,7 +16,7 @@ Drip Deck view and Outfit Card creation page ^
 ![image](https://user-images.githubusercontent.com/97969876/166183161-845fafe4-2c62-4fac-98cf-2cd5d03ced06.png)
 Outfit card view and deletion page ^
 
-![image](https://user-images.githubusercontent.com/97969876/166183922-39a44850-f3cd-4174-9283-188be22898f6.png)
+![image](https://user-images.githubusercontent.com/97969876/166315194-1fc17761-3ce5-4007-9448-a61cfa23b232.png)
 Login Page ^
 
 ![image](https://user-images.githubusercontent.com/97969876/166183267-da1b5029-a32e-40cb-b85c-987523074656.png)
