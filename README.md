@@ -1,6 +1,6 @@
 # DripCards
-DripCards is a project that Daria Pacheco and Naomi Nash have been developing for Saint Leo's Software Development course. 
-It will be a website application that allows users to upload photos of the clothes in their closet and plan ahead for outfits,
+DripCards is a project that Daria Pacheco and Naomi Nash developed for Saint Leo's Software Development course.
+It lays the foundation to be a website application that allows users to upload photos of the clothes in their closet and plan ahead for outfits,
   discover what clothes they do not wear as often anymore, and find clothes and styles that others wear that they want to
   replicate.
 
@@ -39,4 +39,4 @@ It will be a website application that allows users to upload photos of the cloth
 1) The license we will be using is the MIT license. 
    It is an open-source software that allows us to modify or sell without any restrictions.
 2) Images must be saved in same folder as HTML files for images to be viewed on the DripCards web app pages
-3) This web application is NOT complete and will be an ongoing project for the developers
+3) This web application is NOT complete and may become an ongoing project for the developers
